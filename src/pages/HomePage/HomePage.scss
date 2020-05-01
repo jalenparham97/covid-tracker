@@ -1,0 +1,28 @@
+.MuiTypography-body1.stat-number {
+  margin: 5px 0px;
+  font-weight: 700;
+  font-size: 35px;
+}
+
+.cases {
+  color: #2196f3;
+}
+
+.deaths {
+  color: #f44336;
+}
+
+.critical {
+  color: #ff9800;
+}
+
+.recovered {
+  color: #4caf50;
+}
+
+button.view-more {
+  &:hover {
+    background: #061b3b;
+    color: #fff;
+  }
+}
